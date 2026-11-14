@@ -31,7 +31,7 @@ jobs:
         shell: bash
         run: |
           mkdir -p _site/miniapp
-          cp miniapp/index.html _site/miniapp/index.html
+          cp -R miniapp/. _site/miniapp/
           cp catalog.json _site/catalog.json
           touch _site/.nojekyll
       - name: Upload Pages artifact

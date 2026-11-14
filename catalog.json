@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "Женская одежда",
+      "products": [
+        {"id": "woman-coat-brown", "type": "Пальто", "gender": "female", "color": "Шоколадный", "collection": "KUZEL", "sizes": [], "name": "Пальто с поясом · шоколадное", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-01.jpg"},
+        {"id": "woman-coat-ivory", "type": "Пальто", "gender": "female", "color": "Молочный", "collection": "KUZEL", "sizes": [], "name": "Пальто с поясом · молочное", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-02.jpg"},
+        {"id": "woman-embroidered-green", "type": "Платье", "gender": "female", "color": "Зелёный", "collection": "KUZEL", "sizes": [], "name": "Платье с вышивкой · зелёное", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-03.jpg"},
+        {"id": "woman-embroidered-burgundy", "type": "Платье", "gender": "female", "color": "Бордовый", "collection": "KUZEL", "sizes": [], "name": "Платье с вышивкой · бордовое", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-04.jpg"},
+        {"id": "woman-jacket-burgundy", "type": "Жакет", "gender": "female", "color": "Бордовый", "collection": "KUZEL", "sizes": [], "name": "Жакет с вышивкой · бордовый", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-05.jpg"}
+      ]
+    },
+    {
+      "name": "Мужская одежда",
+      "products": [
+        {"id": "man-coat-burgundy", "type": "Пальто", "gender": "male", "color": "Бордовый", "collection": "KUZEL", "sizes": [], "name": "Пальто с высоким воротом · бордовое", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-06.jpg"},
+        {"id": "man-coat-black", "type": "Пальто", "gender": "male", "color": "Чёрный", "collection": "KUZEL", "sizes": [], "name": "Пальто · чёрное", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-07.jpg"},
+        {"id": "man-coat-sand", "type": "Стёганое пальто", "gender": "male", "color": "Бежевый", "collection": "KUZEL", "sizes": [], "name": "Стёганое пальто · бежевое", "price": "Цена по запросу", "description": "Размеры и наличие уточняйте у менеджера.", "image": "images/model-08.jpg"}
+      ]
+    }
+  ],
+  "delivery": "Города, сроки и стоимость доставки, а также доступные способы оплаты подтвердит менеджер KUZEL перед оформлением заказа.",
+  "contact": "Связь с магазином: Instagram https://www.instagram.com/kuzel.shop/"
+}
